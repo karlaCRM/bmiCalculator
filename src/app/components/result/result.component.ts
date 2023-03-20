@@ -40,7 +40,7 @@ getResult(){
   };
  if(this.bim <= 18.5 ){
     this.result = `Underweight`;
-    this.interpretation=`You have a lower body weight than normal. It is not synonymous with being sick.`
+    this.interpretation=`You have a lower body weight than normal. It is important that you know that it is not synonymous with being sick.`
   }
 
 
