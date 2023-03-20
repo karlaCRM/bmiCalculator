@@ -1,0 +1,28 @@
+.backgroundItem2{
+    background-color: #FF111328;
+    height: 20em;
+    border-radius: 1em;
+    margin-bottom: 1em;
+    color: white;
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+
+.result{
+    color: #12bd45;
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.styleNumber{
+    font-size: 4em;
+    font-weight: 700;
+}
+
+.interpretation{
+    margin:0.9em;
+    font-size: 1em;
+    line-height: 0.9;
+    text-align: center;
+}

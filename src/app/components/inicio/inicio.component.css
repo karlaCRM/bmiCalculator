@@ -1,0 +1,35 @@
+.backgroundItem{
+    background-color: #FF111328;
+    height: 6.2em;
+    border-radius: 1em;
+    margin-bottom: 1em;
+    color: white;
+}
+
+.sexDesactivated{
+    background-color: #7D2F2F33
+  }
+  
+
+.sex{
+    font-size: 2em;
+    margin-bottom: 0.2em;
+}
+.styleNum{
+    font-size: x-large;
+    font-weight: 800;
+    margin-top: -0.4em;
+}
+
+input[type=range]::-webkit-slider-thumb{
+    background-color: #c2234b;;
+}
+
+.plusMinus{
+    cursor:pointer;
+    background-color: #FF4C4F5E;
+    padding: 0.3em;
+    border-radius: 1em;
+    margin-left: 0.3em;
+};
+

@@ -1,1 +1,62 @@
-/* You can add global styles to this file, and also import other style files */
+
+body{
+   background-color: rgb(26, 17, 33);
+}
+
+.tittle{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    margin-top: 1em;
+}
+
+.row{
+    margin-top: 2em;
+}
+
+.btnColor{
+    background-color: #FF3366;
+    border-color: #FF3366;
+    border-radius: 2em;
+    width:100%
+}
+
+.btnColor:hover{
+    background-color: #c2234b;
+    border-color: #c2234b;
+}
+
+.containerSex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:1em;
+    height:100%
+}
+.info{
+   padding: 0%;
+   margin-bottom: 0;
+   font-size: small;
+   font-weight: 500;
+   margin-left: -0.3em;
+}
+
+.containerResult{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:1.2em;
+    height:100%;
+    justify-content: center;
+
+}
+
+footer{
+    color: #d5ac28;
+    width: 100%;
+    font-size: x-small;
+    font-weight: 800;
+    margin-bottom: 0.6em;
+    padding-bottom: 0.3em;
+}
